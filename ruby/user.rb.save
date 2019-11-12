@@ -1,0 +1,3 @@
+putss "Enter your Name"
+name=gets.chomp.to_s
+puts "How are you #{name} today"
